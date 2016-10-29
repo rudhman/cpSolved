@@ -29,5 +29,5 @@ int main(){
         cout<<"Case "<<(co++)<<": "<<a[1]<<endl;
     }
 
-    return 0;
-}
+    return 0
+;}
